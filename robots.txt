@@ -1,0 +1,6 @@
+# 임시 (나중에 수정)
+User-agent: *
+Disallow: /
+Allow: /favicon.ico
+Allow: /logo.png
+Allow: /manifest.json

@@ -1,0 +1,20 @@
+{
+    "short_name": "JTFY",
+    "name": "정통포유 JTFY",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "16x16",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "logo.png",
+            "type": "image/png",
+            "sizes": "300x270"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#009991",
+    "background_color": "#ffffff"
+}
